@@ -60,6 +60,7 @@ class BurgerRecipe:
                  cutlets: int,
                  eggs: int,
                  sauce: str) -> None:
+        #but my implementation is okey...
         self.buns = buns
         self.cheese = cheese
         self.tomatoes = tomatoes
